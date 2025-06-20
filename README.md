@@ -1,3 +1,4 @@
+![logo](https://github.com/TanmoyMal/TanmoyMal/blob/main/Cover.jpg)
 <h1 align="center">Hi 👋, I'm Tanmoy Mal</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
